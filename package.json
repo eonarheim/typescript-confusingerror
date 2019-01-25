@@ -1,0 +1,14 @@
+{
+  "name": "typescriptrepro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc ./test.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.3.0-dev.20190125"
+  }
+}
